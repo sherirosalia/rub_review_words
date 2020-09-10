@@ -16,8 +16,7 @@ filepaths may need to be adjusted for your machine.
 - Python Pandas
 - Jupyter Notebook
 
-### Categorizing words
-![](docs/images/words.jpg)
+
 
 
 
